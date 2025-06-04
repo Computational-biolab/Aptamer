@@ -1,5 +1,4 @@
-# Aptamer_design
-**# Aptamer_Design **
+# "AIoptamer: Artificial Intelligence-Driven Aptamer Optimization Pipeline for Targeted Therapeutics in Healthc
 This study explores the potential of AI and machine learning in designing aptamers for targeted drug delivery and diagnostics in healthcare. Aptamers are single-stranded oligomers that can specifically bind to targets, playing vital roles in drug discovery, bioimaging, and precision medicine.
 
 **Key Features:**
