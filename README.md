@@ -2,7 +2,7 @@
 This study explores the potential of AI and machine learning in designing and optimizing aptamers for targeted drug delivery and diagnostics in healthcare. Aptamers are single-stranded oligomers that can specifically bind to targets, playing vital roles in drug discovery, biosensors, bioimaging, and precision medicine.
 
 **Key Features:**
-Objective: Optimize RNA abd DNA oligonucleotides for enhanced stability, binding affinity, and therapeutic applications.
+Objective: Optimize RNA and DNA oligonucleotides for enhanced stability, binding affinity, and therapeutic applications.
 Approaches: ML/AI-based tools for virtual screening and binding affinity prediction.
 Applications: Cancer treatment, infectious diseases, precision medicine, and targeted therapies.
 
